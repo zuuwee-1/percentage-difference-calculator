@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "percentage-diff-calc",
+    "description": "A simple extension to calculate the percentage difference between two numbers",
+    "version": "1.1",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+}
